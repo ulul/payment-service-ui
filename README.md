@@ -42,3 +42,7 @@ User interface for payment service
    ```
    Application will be available at `http://localhost:8001`
    
+6. **Midtrans Sanbox Payment For Test**
+    ```bash
+   Read the documentation at [Midtrans Sanbox Test](https://doc-midtrans.dev.fleava.com/en/technical-reference/sandbox-test)
+   ```
